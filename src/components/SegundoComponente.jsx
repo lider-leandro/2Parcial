@@ -1,3 +1,4 @@
+export {SegundoComponente};
 import React from "react"
 import "../styles/productRow.css";
 
@@ -8,4 +9,3 @@ function SegundoComponente() {
     </div>
     );
 }
-export {SegundoComponente};
