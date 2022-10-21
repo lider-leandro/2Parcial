@@ -1,0 +1,8 @@
+.product-row{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 4px 8px;
+}
+.product-row span:nth-child(1){
+    margin-right: 48px;
+}
